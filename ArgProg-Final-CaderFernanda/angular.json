@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
+              "ArgProg-Final-CaderFernanda/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "ArgProg-Final-CaderFernanda/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -97,5 +100,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "171ccb78-ef5e-48f6-83d2-b715de36cdf5"
   }
 }
